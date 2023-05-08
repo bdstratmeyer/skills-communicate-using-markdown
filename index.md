@@ -7,7 +7,7 @@
 
 $ git init
 
-- [ ] Catch Pokemon
-- [ ] Finish Season 2 
+- [x] Catch Pokemon
+- [x] Finish Season 2 
 - [ ] Clean room (60%)
 
